@@ -1,1 +1,1 @@
-# robotron-2000
+Progresso do curso JavaScript - Manipulando DOM da Alura. 
